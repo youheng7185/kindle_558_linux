@@ -297,7 +297,8 @@ dtb-$(CONFIG_SOC_IMX6SL) += \
 	imx6sl-tolino-shine3.dtb \
 	imx6sl-tolino-vision.dtb \
 	imx6sl-tolino-vision5.dtb \
-	imx6sl-warp.dtb
+	imx6sl-warp.dtb \
+	imx6sl-kindle.dtb
 dtb-$(CONFIG_SOC_IMX6SLL) += \
 	imx6sll-evk.dtb \
 	imx6sll-kobo-clarahd.dtb \
